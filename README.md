@@ -85,7 +85,7 @@ pqc-security-margin/
 ## Installation
 
 ```bash
-git clone https://github.com/<username>/pqc-security-margin.git
+git clone https://github.com/Shtomuch/pqc-security-margin.git
 cd pqc-security-margin
 pip install -r requirements.txt
 ```
